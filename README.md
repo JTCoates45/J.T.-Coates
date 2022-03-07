@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lopseypop
+- 👋 Hi, I’m @J.T. Coates
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning the bascis
 - 💞️ I’m looking to collaborate on any project that will help me learn
